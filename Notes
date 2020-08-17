@@ -1,0 +1,55 @@
+Standard Input and Output:
+Input: input("parameters")
+Output: print(parameters)
+
+Input Example: input("enter the age")
+Output Example: print(age), print("hello world")
+
+Double Input Statement:
+input(print("enter the age")
+
+With Assignment:
+variable = input(print("enter the age")
+
+
+Arithmetic Opperations:
+print(5+5)
+print(5//2)
+
+
+Assigning Variables to Data:
+#Assigning a string to a variable
+name = "Speckbit"
+
+#Assigning a Floating number 
+pi = 3.147
+
+#Assigning a Number
+age = 23
+
+#Assigning a Boolean Value
+is_awesome = True
+
+#Assigning a Complex Number
+complex_no = 3+4j
+
+print(name, pi, age, is_awesome, complex_no)
+
+...........................................
+output: Speckbit 3.147 23 True 3+4j
+...........................................
+
+
+
+Checking Type:
+type(variable)
+Example: type(age)..............output: int
+
+
+Re-assigning or Copying variables:
+name = john
+name1 = name
+print(name1)
+.......................................
+output: john
+.......................................
